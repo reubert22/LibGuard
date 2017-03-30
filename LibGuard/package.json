@@ -1,0 +1,11 @@
+{
+	"name":"lib-guard",
+	"version":"0.0.1",
+	"dependencies":{
+		"express":"latest",
+		"ejs":"^1.0.0",
+		"mongoose":"4.8.1",
+		"mongodb":"latest",
+		"node-restful":"latest"
+	}
+}
